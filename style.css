@@ -1,0 +1,49 @@
+.header{
+    display:flex;
+    background-color: rgb(172, 173, 105);
+    justify-content: space-evenly;
+}
+
+.display{
+    display:flex;
+    justify-content: space-evenly;
+    margin: 24px;
+    background-color: rgb(221, 213, 201);
+    flex-wrap: wrap;
+
+
+}
+
+.autumnArt:hover img{
+    opacity: 0.5;
+    transform: scale(1.02);
+}
+.candlethingArt:hover img{
+    opacity: 0.5;
+    transform: scale(1.02);
+}
+.christmasArt.christmasArt:hover img{
+    opacity: 0.5;
+    transform: scale(1.02);
+}
+.earthArt:hover img{
+    opacity: 0.5;
+    transform: scale(1.02);
+}
+.halloweenArt:hover img{
+    opacity: 0.5;
+    transform: scale(1.02);
+}
+.mushroomArt:hover img{
+    opacity: 0.5;
+    transform: scale(1.02);
+}
+.winterArt:hover img{
+    opacity: 0.5;
+    transform: scale(1.02);
+}
+
+.Art:hover img{
+    opacity: 0.5;
+    transform: scale(1.02);
+}
